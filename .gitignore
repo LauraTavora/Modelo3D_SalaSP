@@ -1,0 +1,14 @@
+# Backups automáticos do Blender
+*.blend1
+*.blend2
+
+# Pastas de render output (opcional — depende do fluxo)
+render/
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Pastas temporárias
+__pycache__/
+*.pyc
